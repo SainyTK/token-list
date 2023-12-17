@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Wrapped KUB",
+    "address": "0x67eBD850304c70d983B2d1b93ea79c7CD6c3F6b5",
+    "symbol": "KKUB",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png"
+  },
+  {
+    "name": "Bitkub-Peg BTC",
+    "address": "0x726613C4494C60B7dCdeA5BE2846180C1DAfBE8B",
+    "symbol": "KBTC",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "Bitkub-Peg USDT",
+    "address": "0x7d984C24d2499D840eB3b7016077164e15E5faA6",
+    "symbol": "KUSDT",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Bitkub-Peg USDC",
+    "address": "0x77071ad51ca93fc90e77BCdECE5aa6F1B40fcb21",
+    "symbol": "KUSDC",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "YES",
+    "address": "0x8debbb77e8a17cffcfc0c7f1f40308886edd3f9f",
+    "symbol": "YES",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://yestoken.digital/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FYES-orange.3695e744.png&w=96&q=75"
+  },
+  {
+    "name": "LUMI",
+    "address": "0x95013Dcb6A561e6C003AED9C43Fb8B64008aA361",
+    "symbol": "LUMI",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Mi6LXCVY3A30JRGM2nH%2F-MiUe8WbJbHzeLJv2HfB%2F-MiUeD5nvivoGHNYYH2I%2Fimage.png?alt=media&token=ee926bc5-1c9b-41da-837c-068b16b46713"
+  },
+  {
+    "name": "Corn",
+    "address": "0x4fA393FC50BcDF367145163b920bB37C21e596ec",
+    "symbol": "CORN",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FOVlEnk0dt7YkEvLiPeAF%2Fseed_corn.png?alt=media&token=b3bcda9f-6f82-48c2-a56e-08d0b6eb522d"
+  },
+  {
+    "name": "Cabbage",
+    "address": "0xE3bee928D481b40BB6D0F0EDbfD888a7845CF622",
+    "symbol": "CABBAGE",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2Fua1Ru8Q5eXqh0puIsLUV%2Fcrop_cabbage.png?alt=media&token=e2f44bbd-7cdf-4502-b16e-880b31a41321"
+  },
+  {
+    "name": "Tomato",
+    "address": "0x9Ea7E0435B5E50e1DCBB8Eacd63F0dbD3003BdAA",
+    "symbol": "TOMATO",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FH5vypAKnzput55KJE0TZ%2Fseed_tomato.png?alt=media&token=c8b7f6fd-e96f-4099-8d56-cad1c676b63a"
+  },
+  {
+    "name": "Carrot",
+    "address": "0x3937dDAd2Ad8A9Ac7EFbf7C1Cb2B2D9b68B7d048",
+    "symbol": "CARROT",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FB3vprJfXNVeNi99NfzPM%2Fcrop_carrot.png?alt=media&token=921f0092-fae1-4605-b69b-cc5eab0e5428"
+  },
+  {
+    "name": "Corn Seed",
+    "address": "0xe27aEbED61Be207E83Fc05fBC408420c737881DA",
+    "symbol": "CORNSEED",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FOVlEnk0dt7YkEvLiPeAF%2Fseed_corn.png?alt=media&token=b3bcda9f-6f82-48c2-a56e-08d0b6eb522d"
+  },
+  {
+    "name": "Cabbage Seed",
+    "address": "0x1f8b5af0ec97c44b24366b36c40f2d4aca2c73e2",
+    "symbol": "CABBAGESEED",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FSihEDQz8JIlvB1qXkJjb%2Fseed_cabbage.png?alt=media&token=c6ee2d5d-4e63-4c87-b7dc-b7c58a0fbcc7"
+  },
+  {
+    "name": "Tomato Seed",
+    "address": "0xe991151Bf43bD712beAC33e5cFF2580841c9b440",
+    "symbol": "TOMATOSEED",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FH5vypAKnzput55KJE0TZ%2Fseed_tomato.png?alt=media&token=c8b7f6fd-e96f-4099-8d56-cad1c676b63a"
+  },
+  {
+    "name": "Carrot Seed",
+    "address": "0x7B263d648Fff39142aBECb07a1bB85297E09982d",
+    "symbol": "CARROTSEED",
+    "decimals": 18,
+    "chainId": 96,
+    "logoURI": "https://688540117-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-Mi6LXCVY3A30JRGM2nH%2Fuploads%2FH5vypAKnzput55KJE0TZ%2Fseed_tomato.png?alt=media&token=c8b7f6fd-e96f-4099-8d56-cad1c676b63a"
+  }
+]
